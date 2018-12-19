@@ -1,8 +1,4 @@
 /**
- * COMP 1020
- *
- * INSTRUCTOR    Dr. Heather Matheson
- * ASSIGNMENT    Assignment #3, question #1
  * @author       Jabo Conrad Nzitatira, 7843614
  * @version      2018-10-29
  *
